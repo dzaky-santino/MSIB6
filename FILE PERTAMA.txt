@@ -8,5 +8,6 @@ KUMPULAN MATERI MSIB 6
 - MySQL Database
 - REST API
 - Consum API
+- Soft Skill
 
 // git add untuk menambahkan file
